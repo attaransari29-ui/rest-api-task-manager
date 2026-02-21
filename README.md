@@ -33,3 +33,54 @@ This project demonstrates RESTful API development, authentication, database inte
 ---
 
 ## 📂 Project Structure
+REST API BASED TASK MANAGER/
+│
+├── app.py
+├── templates/
+│ └── index.html
+├── config.py
+
+
+📸 Output Preview
+
+Register User
+
+Login User
+
+Add Tasks
+
+Update/Delete Tasks
+
+View Tasks Dashboard
+
+🎯 Learning Outcomes
+
+Built RESTful APIs using Flask
+
+Implemented JWT Authentication
+
+Connected Flask with MySQL
+
+Designed normalized relational schema
+
+Integrated frontend with backend APIs
+
+Applied modular programming using OOP principles
+
+👨‍💻 Author
+
+Attar Ansari
+Diploma in Information Technology
+Aspiring Backend Developer 🚀
+
+📌 Future Improvements
+
+Task status (Completed / Pending)
+
+Search & Filter tasks
+
+Pagination
+
+Admin Dashboard
+
+Deploy to Cloud (Render / Railway)
