@@ -3,3 +3,4 @@ Flask-MySQLdb
 Flask-Bcrypt
 Flask-JWT-Extended
 gunicorn
+pymysql
