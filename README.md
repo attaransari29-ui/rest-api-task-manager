@@ -83,4 +83,15 @@ Pagination
 
 Admin Dashboard
 
-Deploy to Cloud (Render / Railway)
+Deploy to Cloud (PythonAnywhere)
+
+
+## 📌 Tech Stack
+
+- Python
+- Flask
+- MySQL
+- Flask-JWT-Extended
+- Flask-Bcrypt
+- Bootstrap
+- Postman (API Testing)
