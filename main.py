@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify, render_template
-from flask_mysqldb import MySQL
+import pymysql
+pymysql.install_as_MySQLdb()
+
 from flask_bcrypt import Bcrypt
 from flask_jwt_extended import (
     JWTManager,
