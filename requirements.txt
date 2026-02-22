@@ -1,5 +1,5 @@
 Flask
-Flask-JWT-Extended
+Flask-MySQLdb
 Flask-Bcrypt
-mysql-connector-python
+Flask-JWT-Extended
 gunicorn
