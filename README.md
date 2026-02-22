@@ -83,7 +83,7 @@ Pagination
 
 Admin Dashboard
 
-Deploy to Cloud (PythonAnywhere)
+Deploy to Cloud (Railway)
 
 
 ## 📌 Tech Stack
