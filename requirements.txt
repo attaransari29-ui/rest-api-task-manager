@@ -1,6 +1,4 @@
-Flask
-Flask-MySQLdb
-Flask-Bcrypt
-Flask-JWT-Extended
-gunicorn
-pymysql
+Flask==3.0.0
+Flask-JWT-Extended==4.6.0
+Flask-Bcrypt==1.0.1
+mysql-connector-python==8.3.0
